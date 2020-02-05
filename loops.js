@@ -19,7 +19,7 @@ function whileLoop(num){
   return "done"
 }
 
-var x = 0;
+var x = -1;
  
 function incrementVariable() {
   x = x + 1;
